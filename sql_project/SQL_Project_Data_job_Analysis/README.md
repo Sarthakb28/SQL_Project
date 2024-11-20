@@ -153,18 +153,21 @@ Here's a breakdown of the results for top paying skills for Data Analysts:
 - **Software Development & Deployment Proficiency:** Knowledge in development and deployment tools (GitLab, Kubernetes, Airflow) indicates a lucrative crossover between data analysis and engineering, with a premium on skills that facilitate automation and efficient data pipeline management.
 - **Cloud Computing Expertise:** Familiarity with cloud and data engineering tools (Elasticsearch, Databricks, GCP) underscores the growing importance of cloud-based analytics environments, suggesting that cloud proficiency significantly boosts earning potential in data analytics.
 
-| Skills        | Average Salary ($) |
-|---------------|-------------------:|
-| pyspark       |            208,172 |
-| bitbucket     |            189,155 |
-| couchbase     |            160,515 |
-| watson        |            160,515 |
-| datarobot     |            155,486 |
-| gitlab        |            154,500 |
-| swift         |            153,750 |
-| jupyter       |            152,777 |
-| pandas        |            151,821 |
-| elasticsearch |            145,000 |
+## Top 10 Skills with Average Salaries
+
+| Skill Name    | Average Salary (USD) |
+|---------------|-----------------------|
+| PySpark       | 208,172              |
+| Bitbucket     | 189,155              |
+| Couchbase     | 160,515              |
+| Watson        | 160,515              |
+| DataRobot     | 155,486              |
+| GitLab        | 154,500              |
+| Swift         | 153,750              |
+| Jupyter       | 152,777              |
+| Pandas        | 151,821              |
+| Elasticsearch | 145,000              |
+
 
 *Table of the average salary for the top 10 paying skills for data analysts*
 
